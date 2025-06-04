@@ -17,8 +17,11 @@ A C++ project that simulates a course registration system using Object-Oriented 
 
 ## 📁 File Structure
  COURSEMANAGEMENTSYSTEM.cpp # Main program source code
+ 
  data/ # Folder to store persistent data files
+ 
  PROJECT REPORT.pdf # Detailed documentation/report
+ 
  README.md # Project overview (this file)
  
 ---
