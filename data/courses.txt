@@ -1,0 +1,6 @@
+Programming|Adil|Khan|adilkhan@gmail.com|Professor|000@gmail,
+Databases|Nabia|Khalid|nabiakhalid@gmail.com|Associate Professor|
+Software Engineering|Sohail|Akhtar|sohailakhtar@gmail.com|Researcher|
+Programming|Adil|Khan|adilkhan@gmail.com|Professor|
+Databases|Nabia|Khalid|nabiakhalid@gmail.com|Associate Professor|123@gmail.com,
+Software Engineering|Sohail|Akhtar|sohailakhtar@gmail.com|Researcher|

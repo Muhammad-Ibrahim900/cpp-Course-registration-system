@@ -1,0 +1,3 @@
+mueed|khan|000@gmail|999|bahria|Programming,
+muhammad|yousaf|123@gmail.com|1000|BAHRIA|Databases,
+muhammad|ibrahim|ibrahim@gmail.com|1010|bahria|Programming,
